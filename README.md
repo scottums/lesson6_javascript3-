@@ -13,8 +13,7 @@ Web Application Development
 (Building an application that displays a photo gallery of images and allows the users to navigate through the images. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://scottums.github.io/lesson6_javascript3-/.)
 
 ### Lessons Learned in the Assignment:
 1. (How to access elements by id, tag name, class, name or selector.)
